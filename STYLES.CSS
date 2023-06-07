@@ -1,0 +1,35 @@
+body{
+    background-color: blueviolet;
+    background-image: url(https://s1.1zoom.me/b5050/157/Tigers_Two_Paws_White_Glance_575877_1920x1080.jpg);
+ background-repeat: no-repeat;
+background-position: center;
+background-size:cover ;
+}
+
+/*cintainer*/
+.container{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: azure
+}
+/*header*/
+  .container header{
+font-family: 'Smokum', cursive;
+font-size: 80 px;
+color: black;
+text-shadow: 5px 5px rgb(244, 242, 242);
+ }
+
+ /*navegation*/
+ .container nav{
+    border: 5px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+.container nav a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
